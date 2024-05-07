@@ -1,0 +1,42 @@
+# IDE
+.idea/
+
+# Compiled class file
+target/
+build/
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.springBeans
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+*.iml
+*.iws
+*.ipr
+
+# Spring Boot
+logs/
+*.jar
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
